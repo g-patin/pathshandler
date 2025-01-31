@@ -17,11 +17,11 @@ Main features
 Installation or upgrade
 -----------------------
 
-To install `pathshandler`, use::
+To install `pathshandler`, use:
 
      pip install pathshandler
 
-To upgrade from an older version, use::
+To upgrade from an older version, use:
 
      pip install --upgrade pathshandler
 
