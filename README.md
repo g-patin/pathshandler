@@ -25,8 +25,6 @@ To upgrade from an older version, use::
 
      pip install --upgrade pathshandler
 
-Further details are in the `on-line documentation
-<https://g-patin.github.io/pathshandler/>`_.
 
 
 Quick usage example
@@ -58,3 +56,6 @@ API Reference
 | `search()` | Select files in a given folder
 | `save_config()` | Save the paths_config.json file
 
+
+Further details are in the online documentation
+<https://g-patin.github.io/pathshandler/>.
